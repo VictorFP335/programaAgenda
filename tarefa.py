@@ -1,4 +1,4 @@
-'''
+# Aplicativo de Notas
 class NotesApp:
     def __init__(self):
         self.notes = {}
@@ -47,8 +47,8 @@ class NotesApp:
 
 if __name__ == "__main__":
     app = NotesApp()
-'''
 
+#Aplicativo de Lista de Tarefas
 class TodoApp:
     def __init__(self):
         self.tasks = []
